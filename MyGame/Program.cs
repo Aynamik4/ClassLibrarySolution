@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Demonstrating Class Library.
+
+using System;
 using MyClassLibrary;
 
 namespace MyGame
