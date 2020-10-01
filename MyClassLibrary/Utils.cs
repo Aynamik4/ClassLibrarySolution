@@ -4,7 +4,7 @@ namespace MyClassLibrary
 {
     public class Utils
     {
-        static Random random = new Random();
+        static readonly Random random = new Random();
 
         /// <summary>
         /// Returns true with a probability of the percent parameter.
